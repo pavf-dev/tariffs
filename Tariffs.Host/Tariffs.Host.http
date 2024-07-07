@@ -1,0 +1,6 @@
+﻿@Tariffs.Host_HostAddress = http://localhost:7017
+
+GET {{Tariffs.Host_HostAddress}}/api/tariffs/costs?consumptionPerYear=4200
+Accept: application/json
+
+###

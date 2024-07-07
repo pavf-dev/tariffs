@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tariffs.Host", "Tariffs.Host\Tariffs.Host.csproj", "{5C7499D9-EAAB-4F13-BF91-261293D1C2DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tariffs", "Tariffs\Tariffs.csproj", "{75656030-C244-43B9-90AA-2AF74B61FBCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tariffs.Tests", "Tariffs.Tests\Tariffs.Tests.csproj", "{E4AEC60A-FCCA-4B86-8A37-3418D198A3D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C7499D9-EAAB-4F13-BF91-261293D1C2DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C7499D9-EAAB-4F13-BF91-261293D1C2DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C7499D9-EAAB-4F13-BF91-261293D1C2DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C7499D9-EAAB-4F13-BF91-261293D1C2DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75656030-C244-43B9-90AA-2AF74B61FBCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75656030-C244-43B9-90AA-2AF74B61FBCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75656030-C244-43B9-90AA-2AF74B61FBCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75656030-C244-43B9-90AA-2AF74B61FBCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4AEC60A-FCCA-4B86-8A37-3418D198A3D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4AEC60A-FCCA-4B86-8A37-3418D198A3D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4AEC60A-FCCA-4B86-8A37-3418D198A3D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4AEC60A-FCCA-4B86-8A37-3418D198A3D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
